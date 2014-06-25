@@ -9,3 +9,4 @@ script: "bundle exec rake"
 gemfile:
   - "gemfiles/simple_form_2.gemfile"
   - "gemfiles/simple_form_3.gemfile"
+  - "gemfiles/simple_form_31.gemfile"
